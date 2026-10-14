@@ -1,0 +1,7 @@
+/* Our app name */
+"AppName" = "Lokalize";
+
+/* User login dialog */
+"EnterUsername" = "Enter your username";
+"EnterEmail" = "Enter your email";
+"password" = "Enter password";

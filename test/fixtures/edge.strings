@@ -1,0 +1,41 @@
+// Single-line comment for the first entry
+"single_line_comment" = "Commented";
+
+/* Escapes */
+"escapes" = "Tab\tnewline\nquote\" backslash\\ apostrophe\' bell\a";
+"unicode" = "\U00A1Hola! é caf\U00E9";
+"octal" = "Octal \101\102\103";
+
+/* Formatting */
+"format" = "%@ has %d new messages (%.1f%%)";
+"positional" = "%2$@ sent %1$d files";
+
+/* Unquoted tokens */
+unquoted_key = "Unquoted key";
+"unquoted_value" = Unquoted_value;
+
+/* Whitespace and layout */
+"spaces"="No spaces around";
+"padded"	=	"  Leading and trailing spaces  "	;
+"multiline_literal" = "Line one
+Line two";
+
+/* Comments inside values are text */
+"comment_like" = "Not /* a comment */ // either";
+
+/* Empty values */
+"empty" = "";
+"blank" = "   ";
+
+/* Shorthand without value */
+"shorthand";
+
+/* Keys */
+"key with spaces" = "Key with spaces";
+"key.with.dots" = "Key with dots";
+"Ключ" = "Unicode key";
+
+/* Duplicates */
+"dup" = "First";
+"dup" = "Second";
+"last" = "No trailing newline";
